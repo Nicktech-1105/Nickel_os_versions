@@ -1,2 +1,2 @@
-# Nickel_os_versions
-This is the oficial repository of the versions of my system (nickel os) 
+# Nickel_os
+This is the oficial repository of my operative system (nickel os) 
